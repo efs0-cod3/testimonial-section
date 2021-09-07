@@ -99,6 +99,9 @@ article{
         margin-bottom: 0;
         padding-bottom: 32px;
     }
+    .article-p{
+        padding-right:5px;
+    }
     
     .violet{
         grid-area: violet;
