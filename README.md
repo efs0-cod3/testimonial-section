@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution-Gh](https://github.com/efs0-cod3/testimonial-section)
-- Live Site URL: [Live](https://your-live-site-url.com)
+- Live Site URL: [Live](https://efs0-cod3.github.io/testimonial-section/)
 
 ## My process
 
