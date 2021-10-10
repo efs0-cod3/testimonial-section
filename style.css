@@ -55,6 +55,7 @@ span{
 .white{
     background-color: hsl(0, 0%, 100%);
     color: hsl(219, 29%, 14%);
+    box-shadow: 5px 5px 20px #d2d9e3;
 }
 
 .grey{
