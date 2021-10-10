@@ -8,9 +8,9 @@
 }
 
 body{
-    font-family: Barlow Semi Condensed;
+        font-family: Barlow Semi Condensed;
     font-size: 13px;
-    background-color: hsl(0, 0%, 81%);
+    background-color: hsl(213, 44%, 95%);
     color: hsl(0, 0%, 100%);
 }
 header{
@@ -21,6 +21,7 @@ header{
 .header-p{
     padding-left: 20px;
     font-size: 15px;
+    white-space: nowrap;
 
 }
 span{
@@ -64,12 +65,13 @@ span{
 }
 
 section{
-    margin: 70px 24px;
+    margin: 70px auto;
 }
 article{
     border-radius: 8px;
     padding: 24px 32px 35px;
     margin-bottom: 24px;
+    min-width: 327px;
 }
 
 .article-p{
@@ -94,13 +96,15 @@ article{
         ;
         column-gap: 30px;
         row-gap: 24px;
+    
     }
     article{
+        
         margin-bottom: 0;
         padding-bottom: 32px;
     }
     .article-p{
-        padding-right:6px;
+        padding-right: 5px;
     }
     
     .violet{
@@ -112,7 +116,7 @@ article{
        grid-area: white-1;
      }
      .white-1 header{
-        padding-right: 38px;
+        padding-right: 36px;
      }
 
      .white-2{
